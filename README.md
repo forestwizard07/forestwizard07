@@ -1,10 +1,7 @@
 <h1 align="center">Hey there, I'm Parth! 👋</h1>
 
-<p align="center">
-  <em>Building systems, solving problems, and learning something new every day.</em>
-</p>
 
----
+
 
 ## 🧭 About Me
 - Undergraduate CS student exploring systems, ML, and backend engineering  
